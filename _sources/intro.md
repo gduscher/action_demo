@@ -8,7 +8,7 @@ following action:
 :language: yaml
 ```
 
-and this `requirements.txt` file:
+jj and this `requirements.txt` file:
 
 ```{literalinclude} requirements.txt
 ```
